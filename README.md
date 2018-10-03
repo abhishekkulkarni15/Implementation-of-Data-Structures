@@ -7,3 +7,4 @@ These projects are implemented as part of course CS5V81-001 Implementation of da
 * Extending a SinglyLinkedList to DoublyLinkedList
 * Bounded Size Queue
 * Huffman Encoding
+* Binary Search Tree (BST)
